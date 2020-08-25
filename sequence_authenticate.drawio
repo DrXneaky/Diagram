@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T13:42:27.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Dne1r0vAXIZXWQzdAbFb" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T13:43:08.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mP4ZOOwZRiOQfyBo2G0L" version="13.6.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1221" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PiKniOWdtxUf1WEHc2kO-1" value="Sequence Diagram: Authenticate" style="shape=umlFrame;whiteSpace=wrap;html=1;width=230;height=30;" vertex="1" parent="1">
+        <mxCell id="PiKniOWdtxUf1WEHc2kO-1" value="Sequence Diagram: Authenticate" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="860" height="570" as="geometry" />
         </mxCell>
         <mxCell id="won6xVCmw4BPkQLx-nKb-31" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
