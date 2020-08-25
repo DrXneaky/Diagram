@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T13:43:08.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mP4ZOOwZRiOQfyBo2G0L" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T16:57:32.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="KVR27U9bvC1LccXGj_DS" version="13.6.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1221" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
+    <mxGraphModel dx="865" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PiKniOWdtxUf1WEHc2kO-1" value="Sequence Diagram: Authenticate" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;" vertex="1" parent="1">
+        <mxCell id="PiKniOWdtxUf1WEHc2kO-1" value="&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;b&gt;Sequence Diagram: Authenticate&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=210;height=30;" vertex="1" parent="1">
           <mxGeometry x="180" y="30" width="860" height="570" as="geometry" />
         </mxCell>
         <mxCell id="won6xVCmw4BPkQLx-nKb-31" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
@@ -119,7 +119,7 @@
             <mxPoint x="575" y="504.6809999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="won6xVCmw4BPkQLx-nKb-57" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;4.1: access denied error&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.962;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="won6xVCmw4BPkQLx-nKb-56" edge="1">
+        <mxCell id="won6xVCmw4BPkQLx-nKb-57" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;4.1: return&lt;br&gt;(access denied error)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.962;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;" parent="1" source="won6xVCmw4BPkQLx-nKb-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415.1400000000001" y="470.04100000000005" as="sourcePoint" />
             <mxPoint x="252.62000000000012" y="527.9839999999999" as="targetPoint" />
