@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T18:29:54.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="UkeprKHiE5VuqZAysLBm" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T19:46:08.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="wbPFwa5zoFQRhENwkkR9" version="13.6.5" type="github">
   <diagram id="F9sWuauFsDqkvSQIgXCU" name="Page-1">
     <mxGraphModel dx="1888" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rxS6ARzGvscLo5JfiblR-8" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="760" height="590" as="geometry" />
+          <mxGeometry y="20" width="780" height="650" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="510" height="409" as="geometry" />
+          <mxGeometry x="30" y="100" width="530" height="470" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="82" y="159" width="180" height="191" as="geometry" />
+          <mxGeometry x="80" y="159" width="182" height="221" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-2" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="159" width="180" height="120" as="geometry" />
+          <mxGeometry x="350" y="159" width="190" height="191" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-3" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="365" width="180" height="120" as="geometry" />
+          <mxGeometry x="350" y="422" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-4" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="134" width="180" height="50" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="580" y="254" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-7" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="180" height="50" as="geometry" />
+          <mxGeometry x="580" y="452" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-17" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;device&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="50" y="41" width="90" height="20" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-17" value="&lt;b style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;device&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
+          <mxGeometry x="313.75" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-18" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;container&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="122" y="169" width="100" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="390" y="169" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-20" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;container&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="390" y="375" width="100" height="20" as="geometry" />
+          <mxGeometry x="390" y="432" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-21" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;volume&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="620" y="144" width="100" height="20" as="geometry" />
@@ -53,13 +53,10 @@
           <mxGeometry x="620" y="264" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-25" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;volume&lt;/font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="620" y="410" width="100" height="20" as="geometry" />
+          <mxGeometry x="620" y="462" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-28" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;network&lt;/span&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="265" y="100" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-29" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;WSGI&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;nbsp;server&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Gunicorn&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="209" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-32" value="Reverse Proxy" style="html=1;verticalAlign=bottom;endArrow=none;fontFamily=Old Standard TT;startArrow=none;startFill=0;endFill=0;endSize=4;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" target="rxS6ARzGvscLo5JfiblR-38">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -67,9 +64,9 @@
             <mxPoint x="330" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-33" value="SQL" style="html=1;verticalAlign=bottom;endArrow=none;fontFamily=Old Standard TT;startArrow=none;startFill=0;endFill=0;endSize=4;startSize=4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rxS6ARzGvscLo5JfiblR-2" target="rxS6ARzGvscLo5JfiblR-40">
+        <mxCell id="rxS6ARzGvscLo5JfiblR-33" value="SQL" style="html=1;verticalAlign=bottom;endArrow=none;fontFamily=Old Standard TT;startArrow=none;startFill=0;endFill=0;endSize=4;startSize=4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=191;exitDy=100;exitPerimeter=0;" edge="1" parent="1" source="rxS6ARzGvscLo5JfiblR-2" target="rxS6ARzGvscLo5JfiblR-40">
           <mxGeometry x="0.3421" width="80" relative="1" as="geometry">
-            <mxPoint x="385" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="sourcePoint" />
             <mxPoint x="440" y="350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -94,8 +91,8 @@
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-37" value="" style="endArrow=none;html=1;fontFamily=Old Standard TT;entryX=0;entryY=0;entryDx=30;entryDy=180;entryPerimeter=0;" edge="1" parent="1" source="rxS6ARzGvscLo5JfiblR-3" target="rxS6ARzGvscLo5JfiblR-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="341.78571428571433" as="sourcePoint" />
-            <mxPoint x="630.0000000000002" y="365" as="targetPoint" />
+            <mxPoint x="580" y="398.78571428571433" as="sourcePoint" />
+            <mxPoint x="630.0000000000002" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;" vertex="1" parent="1">
@@ -105,34 +102,34 @@
           <mxGeometry x="302" y="226.5" width="48" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="435" y="350" width="10" height="20" as="geometry" />
+          <mxGeometry x="435" y="407" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-41" value="Port 5432" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="368" y="347" width="60" height="20" as="geometry" />
+          <mxGeometry x="368" y="404" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-42" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Application Server&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
+        <mxCell id="rxS6ARzGvscLo5JfiblR-42" value="&lt;span style=&quot;font-size: 14px&quot;&gt;:python3.7 image&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="380" y="184" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Web Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="127" y="184" width="90" height="20" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;:tutum/nginx image&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
+          <mxGeometry x="108.5" y="184" width="127" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DataBase Server&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="380" y="390" width="120" height="20" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;: postgres:11 image&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
+          <mxGeometry x="376" y="447" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-45" value="&lt;font style=&quot;font-size: 14px&quot;&gt;app_network&lt;br&gt;10.0.0.0/24&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="124" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-46" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Docker Host - RedHat VM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="61" width="172.5" height="20" as="geometry" />
+          <mxGeometry x="272.5" y="60" width="172.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="72" y="209" width="10" height="20" as="geometry" />
+          <mxGeometry x="70" y="209" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-48" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Port &lt;br&gt;80&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="54.5" y="232" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-49" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;/var/lib/postgresql/data&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="590" y="430" width="160" height="20" as="geometry" />
+          <mxGeometry x="590" y="482" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-50" value="&lt;div style=&quot;font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;/var/log/cronlogs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
           <mxGeometry x="590" y="284" width="160" height="20" as="geometry" />
@@ -144,7 +141,7 @@
           <mxGeometry x="590" y="164" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="10" y="209" width="10" height="20" as="geometry" />
+          <mxGeometry x="-10" y="209" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-55" value="" style="endArrow=none;html=1;labelBackgroundColor=none;fontFamily=Old Standard TT;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rxS6ARzGvscLo5JfiblR-53" target="rxS6ARzGvscLo5JfiblR-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -153,25 +150,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-57" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Port &lt;br&gt;80&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Old Standard TT;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="234" width="30" height="20" as="geometry" />
+          <mxGeometry x="-38" y="234" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-58" value="HTTP requests/responses" style="html=1;verticalAlign=bottom;endArrow=none;fontFamily=Old Standard TT;startArrow=none;startFill=0;endFill=0;endSize=4;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" target="rxS6ARzGvscLo5JfiblR-53">
+        <mxCell id="rxS6ARzGvscLo5JfiblR-58" value="HTTP" style="html=1;verticalAlign=bottom;endArrow=none;fontFamily=Old Standard TT;startArrow=none;startFill=0;endFill=0;endSize=4;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;textDirection=rtl;horizontal=1;" edge="1" parent="1" target="rxS6ARzGvscLo5JfiblR-53">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-120" y="219" as="sourcePoint" />
-            <mxPoint x="-2" y="218.66" as="targetPoint" />
+            <mxPoint x="-70" y="219" as="sourcePoint" />
+            <mxPoint y="219.30999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="219.30999999999997" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rxS6ARzGvscLo5JfiblR-59" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;artifact&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;docker-compose.yml&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="530" width="710" height="55" as="geometry" />
+          <mxGeometry x="30" y="590" width="730" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-60" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;artifact&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Nginx&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="109.5" y="209" width="125" height="55" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-62" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;static content&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Angular files&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="101" y="295.5" width="140" height="74.5" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-61" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;artifact&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;PostgreSQL&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="420" width="125" height="55" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-63" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="213" width="152" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="rxS6ARzGvscLo5JfiblR-62" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;artifact&lt;/font&gt;&lt;font&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Angular files&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=artifact;archiType=square;fontFamily=Old Standard TT;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="109.5" y="277" width="125" height="55" as="geometry" />
+        <mxCell id="rxS6ARzGvscLo5JfiblR-65" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot;&gt;web&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot; face=&quot;old standard tt&quot;&gt; server&lt;/font&gt;&lt;font style=&quot;font-family: &amp;#34;old standard tt&amp;#34;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Nginx HTTP server&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="223" width="140" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rxS6ARzGvscLo5JfiblR-69" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="471" width="152" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rxS6ARzGvscLo5JfiblR-70" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 15px&quot; face=&quot;Old Standard TT&quot;&gt;database server&lt;/font&gt;&lt;font style=&quot;font-family: &amp;#34;old standard tt&amp;#34;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 13px&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;PostgreSQL 11&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="366" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxS6ARzGvscLo5JfiblR-71" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#FFFFFF;fontFamily=Old Standard TT;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="366" y="209" width="152" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rxS6ARzGvscLo5JfiblR-72" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-weight: bold ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;font style=&quot;font-weight: bold ; font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;application server&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-family: &amp;#34;old standard tt&amp;#34;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px ; font-weight: bold&quot;&gt;&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Gunicorn WSGI&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="216.5" width="148" height="40.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
