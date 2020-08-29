@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-08-29T10:20:38.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.5" etag="HNBDRbiJK8od0zVO3fV1" type="github"><diagram id="MeJvtc108ymn7zGRrAQt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-29T10:34:22.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SoEgio1v9CpyOniKXQiW" version="13.6.5" type="github">
+  <diagram id="MeJvtc108ymn7zGRrAQt" name="Page-1">
+    <mxGraphModel dx="865" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-3" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=5.300010681152344;strokeColor=#432D57;fontColor=#ffffff;gradientDirection=north;shadow=1;gradientColor=#CBA5ED;fillColor=#5E4C6E;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-2" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=5.300010681152344;strokeColor=#006EAF;fontColor=#FFFFFF;shadow=1;gradientDirection=north;gradientColor=#63D6FF;fillColor=#10628A;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=5.300010681152344;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;gradientDirection=north;sketch=0;shadow=1;gradientColor=#FF6EC5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-4" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Presentation Layer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460.08" y="205.88" width="189.77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-5" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Application Layer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460.15" y="265.9" width="189.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-7" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Data Layer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460.53" y="326" width="189.47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-8" value="&lt;font face=&quot;Old Standard TT&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;HTML5, CSS3, JavaScript&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="205.88" width="189.77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-9" value="&lt;font face=&quot;Old Standard TT&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Python, JAVA, .NET C#&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="265.9" width="189.77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-mV2CmvrpYFHqtel5yo5-10" value="&lt;font face=&quot;Old Standard TT&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;MySQL, PostgreSQL, Oracle&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="326" width="189.77" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
