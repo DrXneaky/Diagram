@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T13:47:48.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="O0MIpIYd1kScurvcfjxL" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T14:01:31.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="SN26CcjNMBhqU62xsqdm" version="13.6.5" type="github">
   <diagram id="d6mMUUTLgo8zF5sFDHfQ" name="Page-1">
-    <mxGraphModel dx="716" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="qdngjhdqyZibX6NcExob-40" value="&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;Jenkins&amp;nbsp;job&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="349" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qdngjhdqyZibX6NcExob-41" value="&lt;font face=&quot;Old Standard TT&quot;&gt;developper&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qdngjhdqyZibX6NcExob-41" value="&lt;font face=&quot;Old Standard TT&quot;&gt;developer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="316.25" y="242.5" width="52.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qdngjhdqyZibX6NcExob-42" value="&lt;font face=&quot;Old Standard TT&quot;&gt;git repository&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
@@ -110,7 +110,7 @@
           <mxGeometry x="628.4399999999999" y="409" width="123.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qdngjhdqyZibX6NcExob-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png;rounded=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=5;fillColor=#FF66FF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="667.01" y="110" width="46" height="46" as="geometry" />
+          <mxGeometry x="667" y="110" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qdngjhdqyZibX6NcExob-45" value="&lt;font face=&quot;Old Standard TT&quot;&gt;production VM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="913.75" y="390" width="52.5" height="20" as="geometry" />
