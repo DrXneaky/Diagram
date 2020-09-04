@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T15:14:10.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="F-A3QnrhKs-2COiJ7Qvd" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T15:14:44.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fvgmEhuQODc4Zleqpgq1" version="13.6.5" type="github">
   <diagram id="d6mMUUTLgo8zF5sFDHfQ" name="Page-1">
-    <mxGraphModel dx="1221" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
+    <mxGraphModel dx="1038" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Old Standard TT^https://fonts.googleapis.com/css?family=Old+Standard+TT">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,8 +106,8 @@
         <mxCell id="qdngjhdqyZibX6NcExob-42" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;git repository&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="458.75" y="262.5" width="52.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qdngjhdqyZibX6NcExob-43" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 16px&quot;&gt;Jenkins master&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="628.4399999999999" y="409" width="123.12" height="20" as="geometry" />
+        <mxCell id="qdngjhdqyZibX6NcExob-43" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 16px&quot;&gt;Jenkins master&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="628.44" y="400" width="123.12" height="31" as="geometry" />
         </mxCell>
         <mxCell id="qdngjhdqyZibX6NcExob-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jenkins-128.png;rounded=1;shadow=0;strokeColor=#FFFFFF;strokeWidth=5;fillColor=#FF66FF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="667" y="110" width="46" height="46" as="geometry" />
