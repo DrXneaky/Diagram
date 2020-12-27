@@ -1,73 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T16:17:09.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1pp_BVhOqVfObJ2IqGx2" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-27T16:34:42.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CrWcyMGaniti_82FIxsG" version="14.1.2" type="github">
   <diagram id="JVxn_o5vPZOVb_c0O_hW" name="Page-1">
-    <mxGraphModel dx="593" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sYD4_DOSg5qUiYy1gqZe-11" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;Server&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="765" y="170" width="265" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="383" width="140" height="30" as="geometry" />
+          <mxGeometry x="765" y="160" width="265" height="240" as="geometry" />
         </mxCell>
         <mxCell id="sYD4_DOSg5qUiYy1gqZe-13" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;Network &lt;br&gt;Server&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="480" y="175" width="180" height="100" as="geometry" />
+          <mxGeometry x="540" y="170" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-14" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;DataBase&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="767.5" y="470" width="260" height="130" as="geometry" />
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-14" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;Client&lt;br&gt;&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="760" y="443" width="267.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-19" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Old Standard TT&quot;&gt;«&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;Web application&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;»&lt;/font&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Flask Application&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="300" width="140" height="85" as="geometry" />
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-19" value="&lt;span style=&quot;font-family: &amp;#34;old standard tt&amp;#34; ; font-size: 14px&quot;&gt;«DataBase»&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;old standard tt&amp;#34; ; font-size: 14px&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;old standard tt&amp;#34; ; font-size: 14px&quot;&gt;PostgreSQL&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="294" width="140" height="85" as="geometry" />
         </mxCell>
         <mxCell id="sYD4_DOSg5qUiYy1gqZe-20" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sYD4_DOSg5qUiYy1gqZe-19">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-21" value="&lt;font style=&quot;font-size: 16px&quot; face=&quot;Old Standard TT&quot;&gt;«&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;WSGI&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;»&lt;/font&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Gunicorn&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="190" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-22" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sYD4_DOSg5qUiYy1gqZe-21">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-23" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;«DataBase»&lt;br&gt;&lt;b&gt;PostgreSQL&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="510" width="140" height="70" as="geometry" />
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-23" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Old Standard TT&quot;&gt;«Application»&lt;br&gt;&lt;b&gt;VB.NET Application&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="483" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sYD4_DOSg5qUiYy1gqZe-24" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="sYD4_DOSg5qUiYy1gqZe-23">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-25" value="" style="html=1;verticalAlign=bottom;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-13" target="sYD4_DOSg5qUiYy1gqZe-21">
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-25" value="" style="html=1;verticalAlign=bottom;endArrow=openThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-31" target="sYD4_DOSg5qUiYy1gqZe-32">
           <mxGeometry x="-0.25" width="80" relative="1" as="geometry">
             <mxPoint x="640" y="225" as="sourcePoint" />
-            <mxPoint x="763.8299999999999" y="297.5999999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="225" />
-            </Array>
+            <mxPoint x="840" y="225" as="targetPoint" />
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-26" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 12px&quot;&gt;SQL&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-12" target="sYD4_DOSg5qUiYy1gqZe-23">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="910" y="430" as="sourcePoint" />
-            <mxPoint x="1000" y="430" as="targetPoint" />
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-33" value="&lt;font face=&quot;Old Standard TT&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Old+Standard+TT&quot;&gt;Pull&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYD4_DOSg5qUiYy1gqZe-25">
+          <mxGeometry x="0.4569" y="-1" relative="1" as="geometry">
+            <mxPoint x="-30.79" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-28" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;SQLAlchemy&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="865" y="388" width="90" height="20" as="geometry" />
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-26" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 12px&quot;&gt;SQL&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;startArrow=openThin;startFill=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-19" target="sYD4_DOSg5qUiYy1gqZe-23">
+          <mxGeometry x="-0.0192" width="80" relative="1" as="geometry">
+            <mxPoint x="910" y="413" as="sourcePoint" />
+            <mxPoint x="1000" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="sYD4_DOSg5qUiYy1gqZe-29" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 12px&quot;&gt;HTTP/JSON&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-21" target="sYD4_DOSg5qUiYy1gqZe-19">
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-29" value="&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Update&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYD4_DOSg5qUiYy1gqZe-32" target="sYD4_DOSg5qUiYy1gqZe-19">
           <mxGeometry x="0.3333" width="80" relative="1" as="geometry">
-            <mxPoint x="920" y="410.0000000000001" as="sourcePoint" />
+            <mxPoint x="910" y="260" as="sourcePoint" />
             <mxPoint x="910" y="290" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sYD4_DOSg5qUiYy1gqZe-31" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 16px&quot;&gt;«&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;Log Files&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;»&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="230" width="85" height="30" as="geometry" />
+          <mxGeometry x="600" y="210" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-32" value="&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 16px&quot;&gt;«&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot; style=&quot;font-size: 14px&quot;&gt;talendJob.sh&lt;/font&gt;&lt;font face=&quot;Old Standard TT&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;»&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="858.75" y="210" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-35" value="&lt;font face=&quot;Old Standard TT&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Old+Standard+TT&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Daily &lt;br&gt;Operation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="210" width="48" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYD4_DOSg5qUiYy1gqZe-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="200" width="374" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
