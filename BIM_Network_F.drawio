@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T08:42:35.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="gIHqDvFJZYSlVuDNXmvO" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T08:43:49.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="XJvFDqjO6KkVZG94Xmed" version="15.7.1" type="github">
   <diagram id="zkSDBkDoWK4vVrvNhM1e" name="Page-1">
     <mxGraphModel dx="1021" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -234,16 +234,16 @@
         <mxCell id="8RHFwjdVYf4FalaLcXXb-12" value="Switch L3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="287" y="-54" width="60" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="8RHFwjdVYf4FalaLcXXb-13" value="Nouveau Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="8RHFwjdVYf4FalaLcXXb-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Nouveau Switch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="167" y="120" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8RHFwjdVYf4FalaLcXXb-14" value="Nouveau Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="8RHFwjdVYf4FalaLcXXb-14" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Nouveau Switch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="415" y="120" width="60" height="18" as="geometry" />
         </mxCell>
         <mxCell id="8RHFwjdVYf4FalaLcXXb-16" value="&lt;b&gt;ESXi, DB Servers, Storage&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="757.5" y="246" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8RHFwjdVYf4FalaLcXXb-17" value="Nouveau Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="8RHFwjdVYf4FalaLcXXb-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Nouveau Switch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="789.5699999999999" y="82.4" width="60" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ukt3D81S2y9U9mqz94qk-2" value="&lt;b style=&quot;font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;VLAN MGT Hardware&lt;br&gt;VLAN Infra VMware&lt;br&gt;VLAN Replication&lt;br&gt;VLAN Backup&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;VLAN vMotion&lt;/font&gt;&lt;br&gt;VLANs VMs&lt;br&gt;VLAN DB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -264,11 +264,11 @@
         <mxCell id="ukt3D81S2y9U9mqz94qk-8" value="&lt;b style=&quot;font-size: 10px ; background-color: rgb(255 , 255 , 255)&quot;&gt;VLAN MGT Hardware&lt;br&gt;VLAN Infra VMware&lt;br&gt;VLAN Replication&lt;br&gt;VLAN Backup&lt;br&gt;VLANs VMs&lt;br&gt;VLAN DB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860.5699999999999" y="-211" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0g1sJVY2cfaZkGYjMp8f-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;FW Fortigate&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-220" width="84" height="18" as="geometry" />
+        <mxCell id="0g1sJVY2cfaZkGYjMp8f-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;FW Fortigate&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="278" y="-220" width="100" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="0g1sJVY2cfaZkGYjMp8f-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;FW Fortigate&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="768" y="-220" width="84" height="18" as="geometry" />
+        <mxCell id="0g1sJVY2cfaZkGYjMp8f-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;FW Fortigate&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="768" y="-220" width="92" height="18" as="geometry" />
         </mxCell>
         <mxCell id="0g1sJVY2cfaZkGYjMp8f-4" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Config&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Gateway&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="365" y="-151" width="45" height="20" as="geometry" />
