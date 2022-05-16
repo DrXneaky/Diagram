@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T16:16:44.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="kixRiults0pyaJ6hDKgR" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T09:17:12.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="FJX8Qd7q2Gka0ET-vAo6" version="18.0.3" type="github">
   <diagram id="4NXuw6G_-GMQ_li0FR5_" name="Page-1">
-    <mxGraphModel dx="2297" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="-340.00000000000006" y="556.1100000000001" width="100" height="45.91" as="geometry" />
         </mxCell>
         <mxCell id="h5vjK-xBNkant0UEVfF--46" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;Site Production&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;fillColor=#d0cee2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;sketch=0;fontSize=11;strokeColor=#56517e;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="734.31" width="714.38" height="29" as="geometry" />
+          <mxGeometry x="-725" y="734.31" width="714.38" height="29" as="geometry" />
         </mxCell>
         <mxCell id="h5vjK-xBNkant0UEVfF--48" value="Baie NetApp" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=1;sketch=0;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-268.53" y="680.08" width="151.06" height="26" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="-603.1800000000001" y="465.19" width="116.68" height="26" as="geometry" />
         </mxCell>
         <mxCell id="91HCScieyjAyC7lc2fVU-22" value="Serveurs VMware" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=1;sketch=0;fontFamily=Times New Roman;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-601.3499999999999" y="169" width="116.68" height="26" as="geometry" />
+          <mxGeometry x="-599.7499999999999" y="176.31" width="116.68" height="26" as="geometry" />
         </mxCell>
         <mxCell id="91HCScieyjAyC7lc2fVU-23" value="" style="endArrow=openThin;html=1;strokeWidth=2;fillColor=#a20025;strokeColor=#6F0000;entryX=1.054;entryY=0.208;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
